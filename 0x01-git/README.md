@@ -1,1 +1,1 @@
-my second readme
+How to update from github
